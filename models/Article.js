@@ -5,5 +5,6 @@ function Article(options){
     this.images= options.images;
 }
 Article.prototype.update = function(){
-    
+  
 }
+//sdfa
