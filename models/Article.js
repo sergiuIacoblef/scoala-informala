@@ -7,4 +7,4 @@ function Article(options){
 Article.prototype.update = function(){
   
 }
-//sdfa
+//sdfadsgfdsgdgdfsgddg
